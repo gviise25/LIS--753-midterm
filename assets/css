@@ -62,7 +62,7 @@ line-height:1.4em;
 }
 
 header  {
-background-image: url(../images/illinois election candidates 2020- Bing );
+background-image: url(../images/ );
 border-bottom: 2px solid #302F2F;
 text-align: center;
 }
