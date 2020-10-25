@@ -1,2 +1,3 @@
-# LIS 753 midterm
-The midterm 
+# LIS753-midterm
+This is the page for my midterm
+Website begins
