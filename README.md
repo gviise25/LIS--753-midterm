@@ -1,1 +1,2 @@
-# LIS--753-midterm
+# LIS 753 midterm
+The midterm 
