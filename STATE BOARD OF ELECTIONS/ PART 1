@@ -6,7 +6,7 @@
   </head>
 <body>
 <header class="wrapper">
-  <h1 id= "page-title">2020 Vote- By- Mail Frequently Asked Questions</h1>
+  <h1 id= "page-title">STATE BOARD OF ELECTIONS</h1>
 </header>
 <main class="wrapper">
 <p>2020 Vote- By- Mail Frequently Asked Questions
@@ -98,14 +98,13 @@ Here is a look at how voting by mail figured into recent general elections and t
 
 <div class="image center-image" >
 <img  atl="Illinois election" title="Illinois election" src="https://uselections.com/images/states/ILflag.png" />
-<p class="caption"> </p>
+<p class="caption"> Illinois election</p>
 <div class="image" >
 </div>
 
 <h2> Illinois election homepage</h2>
 <ul>
-  <li><a href="">   </a></li>
-
+<li><a href="mid2"> midterm  </a></li>
 </ul>
 
 <h2>My links</h2>
