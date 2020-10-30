@@ -27,6 +27,13 @@ color: #130342;
 text-align:left;
 }
 
+blockquote {
+border-left: 0px solid #889AA5;
+padding-left: 0px;
+background color: #f9f9f9;
+margin-left:  0;
+}
+
 .image  {
 text-align: center;
 margin: 2em 0;
@@ -51,17 +58,17 @@ text-align:left;
 }
 
 p  {
-line-height:.4em;
+line-height:1.4em;
 }
 
 header  {
-background-image: url(../images/ILflag.png );
+background-image: url(../images/ILflag.png);
 border-bottom: 2px solid #302F2F;
 text-align: center;
 }
 
 footer.wrapper {
-text-align:center;
-padding: 40px 20px;
-border-top: 2px solid #302F2F;
+  text-align:center;
+  padding: 40px 20px;
+  border-top: 2px solid #302F2F;
 }
